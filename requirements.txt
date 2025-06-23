@@ -1,7 +1,7 @@
-streamlit==1.25.0
-pandas==2.1.0
-tensorflow==2.13.0
-numpy==1.24.4
-pillow==9.5.0
-requests==2.31.0
-scikit-learn==1.2.2
+streamlit
+tensorflow-cpu
+numpy
+Pillow
+requests
+opencv-python-headless
+protobuf~=3.19.0
